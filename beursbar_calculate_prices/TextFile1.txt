@@ -1,0 +1,13 @@
+Flowchart to calculate prices
+
+Main prinicple: the more a drink is bought, the higher the price gets and visa versa
+Function should be activated on start and ran a certain polling rate.
+Each time returning price for each drink
+
+See excel file for some cool maths
+
+
+Collect drinks
+	|
+	v
+
